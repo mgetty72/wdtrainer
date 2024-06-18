@@ -13,7 +13,7 @@ let balls
 
 var nextLevelButton = document.getElementById("nextLevelButton")
 
-nextLevelButton.addEventListener("click", nextLevel)
+
 
 
 
@@ -294,9 +294,7 @@ function displayWinMessage() {
 }
 
 
-function nextLevel() {
-	location.href="index4.html"
-}
+
 
 
 
